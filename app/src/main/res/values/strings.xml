@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FootballClubWithAPI</string>
+
+    <array name="league">
+        <item> La Liga Spanyol</item>
+        <item> Premier League Inggris</item>
+        <item> Serie A Italia</item>
+        <item> Bundesliga German</item>
+        <item> Ligue 1 Francis</item>
+        <item> English League Championship</item>
+    </array>
+</resources>
